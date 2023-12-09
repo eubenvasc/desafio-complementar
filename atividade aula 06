@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="HTML semântico">
+    <meta name="description" content="Atividade sobre Html Semântico, como exemplo feito para ajudar os estudos">
+    <title>Desafio complementar</title>
+</head>
+<body>
+    <header>
+        <p> Informações pessoais </p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li> Bernardo Silveira</li>
+            <li> Estudante</li>
+            <li> 16 Anos</li>
+            <li> Taurino</li>
+        </ul>
+    </nav>
+
+    <section>
+        <article>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum nihil recusandae quia molestias amet beatae consequuntur harum, quas repudiandae suscipit, inventore, facere numquam minima rerum reprehenderit distinctio libero animi nisi.
+        </article>
+        <article>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo ratione deleniti necessitatibus nobis laudantium quia labore. Repudiandae provident minima quibusdam sapiente illum, nesciunt aliquid sunt aut, vero, itaque nihil esse?
+        </article>
+    </section>
+    <aside>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis adipisci impedit porro dolor, tempore beatae officia, similique iure error eum vero quaerat qui. Odit quam quos tenetur possimus modi blanditiis.
+    </aside>
+
+    <footer>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem amet eaque repudiandae qui saepe. Voluptates repellendus provident debitis vero modi maxime temporibus earum nulla mollitia dicta assumenda, ullam rem voluptatibus.
+    </footer>
+</body>
+</html>
